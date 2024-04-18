@@ -2,12 +2,14 @@
 /***          Constants and global variables          ***/
 /********************************************************/
 
-/*PINS!!!!*/
+/*ARDUINO LEONARDO PIN CONFIGURATION*/
 
 #define LEFT_MOTOR                  5
 #define LEFT_ENCODER                2
 #define RIGHT_MOTOR                 6
 #define RIGHT_ENCODER               3
+
+/************************************/
 
 #define RXLED                       17
 #define TXLED                       30
